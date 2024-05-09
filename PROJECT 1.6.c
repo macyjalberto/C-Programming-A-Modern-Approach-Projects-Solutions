@@ -11,7 +11,6 @@ int main(void) {
     printf("((((3x + 2)x - 5)x - 1)x + 7)x - 6\n");
     printf("Enter an x value: ");
     scanf("%d", &x);
-    printf("%d\n", x);
     result = ((((3 * x + 2)* x - 5) * x - 1) * x + 7) * x - 6;
     printf("((((3(%d) + 2)(%d) - 5)(%d) - 1)(%d) + 7)(%d) - 6 is equal to... %d", x, x, x, x, x, result);
     return 0;
