@@ -2,6 +2,13 @@
    PROJECT: 1
    AUTHOR: MACYJALBERTO
    DATE: MAY 09, 2024
+   PROJECT DESCRIPTION: WRITE A CODE THAT SHOW
+              *
+             *
+            *
+    *      *
+      *   *
+        *
 */
 #include <stdio.h>
 
